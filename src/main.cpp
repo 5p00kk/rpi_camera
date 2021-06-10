@@ -1,3 +1,6 @@
+#include <iostream>
+#include <wiringPi.h>
+
 /* Add button press interrupt */
 /* Add image capture */
 /* Add image saver */
